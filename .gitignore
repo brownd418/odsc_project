@@ -2,6 +2,7 @@
 venv/
 __pycache__/
 *.pyc
+llm_env
 
 # Environment variables
 .env
@@ -11,4 +12,3 @@ temp.pdf
 
 # Streamlit config (optional if local)
 .streamlit/secrets.toml
-
